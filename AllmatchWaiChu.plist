@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.allmatchshanghai.AllmatchForClient</string>
+				<string>cn.allmatchclient.AllmatchForClient</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
